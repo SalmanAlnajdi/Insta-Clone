@@ -1,4 +1,5 @@
 import React from 'react'
+import { FcLike } from "react-icons/fc";
 
 const Post = ({
     image, postTitle , postDes , likes
@@ -21,8 +22,9 @@ const Post = ({
         </div>
 
         <div className='like-box'>
-            <p>{likes} likes </p>
+            <p> <FcLike/>  {likes} likes </p>
             <button>Like</button>
+            
         
 
         </div>

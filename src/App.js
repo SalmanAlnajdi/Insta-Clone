@@ -2,6 +2,7 @@
 import './App.css';
 import Post from './components/Post';
 
+
 function App() {
  
   const posts = [
@@ -44,7 +45,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My cool Instegram clone</h1>
+      <h1>My cool Instagram clone</h1>
       <div className='posts-container'>
 
           {postList}
