@@ -15,7 +15,7 @@ function App() {
       image : "https://www.nwf.org/-/media/NEW-WEBSITE/Shared-Folder/Wildlife/Invertebrates/invertebrate_octopus_600x300.jpg",
       postTitle : "Octopus",
       postDes : "Sea World............ ",
-      likes : 109
+      likes : 108
     },
     {
       image : "https://www.seacoastonline.com/gcdn/presto/2021/07/14/NPOH/32c7c45d-5abc-49e5-aa81-71633454f748-greatwhiteshark.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
