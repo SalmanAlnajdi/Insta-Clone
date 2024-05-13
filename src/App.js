@@ -33,7 +33,7 @@ function App() {
       image : "https://www.thoughtco.com/thmb/H76ZaM54-H4XYjYxMyi2LpP31sE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-552097471-7e00923b6e4d492f876db869379b193c.jpg",
       postTitle : "Jellyfish",
       postDes : "Sea World ............ ",
-      likes : 320
+      likes : 654
     }
   ]
 
