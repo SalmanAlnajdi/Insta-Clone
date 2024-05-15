@@ -52,7 +52,6 @@ h1{
 .like-box{ 
   color: antiquewhite;
   width: 210px;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
